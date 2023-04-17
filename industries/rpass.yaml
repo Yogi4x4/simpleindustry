@@ -1,11 +1,11 @@
 available: false
 callbacks: ''
 cargoAcceptance:
-- RPMI
 - RMai
+- RPMI
 cargoProduction:
-- RPMI
 - RMai
+- RPMI
 colour: 1
 fundCostMultiplier: 13
 id: 0
