@@ -1,0 +1,17 @@
+abbreviation: RP
+available: false
+classes: 1
+colour: 149
+id: 0
+label: RPMI
+longName: rural passengers
+name: Rural Passengers
+penaltyLength: 255
+penaltyLowerBound: 0
+price: 4112
+sprite:
+  filename: cargoes/rural-passengers.png
+  left: 0
+  top: 0
+unitName: Passengers
+weight: 16

@@ -1,0 +1,18 @@
+available: false
+callbacks: ''
+cargoAcceptance:
+- RPMI
+cargoProduction:
+- RPMI
+colour: 1
+fundCostMultiplier: 13
+id: 0
+layout:
+- - - -1
+name: RPass
+placement: anywhere
+probabilityInGame: 5
+probabilityMapGen: 3
+prospectChance: 75
+tiles: []
+type: primary
