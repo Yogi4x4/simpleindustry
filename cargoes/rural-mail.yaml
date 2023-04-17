@@ -1,0 +1,17 @@
+abbreviation: RM
+available: false
+classes: 2
+colour: 240
+id: 1
+label: RMai
+longName: rural mail
+name: Rural Mail
+penaltyLength: 255
+penaltyLowerBound: 0
+price: 4112
+sprite:
+  filename: cargoes/rural-mail.png
+  left: 0
+  top: 0
+unitName: Bags
+weight: 1
