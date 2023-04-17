@@ -13,6 +13,6 @@ name: RPass
 placement: anywhere
 probabilityInGame: 5
 probabilityMapGen: 3
-prospectChance: 75
+prospectChance: 50
 tiles: []
 type: primary
